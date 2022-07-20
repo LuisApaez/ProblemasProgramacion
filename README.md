@@ -37,3 +37,8 @@ Problema 7: Cálculo de filas en el triángulo de Pascal
 
 * Código de la solución en Python con explicación: [Script](problema7.py)
 
+Problema 8: Suma mínima de un camino en un triángulo.
+
+* Explicación de la solución en una Jupyter Notebook: [Notebook](Problema8/Problema8.ipynb)
+* Código de la solución en Python: [Script](Problema8/problema8.py)
+
